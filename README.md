@@ -1,4 +1,4 @@
-# AI-Powered Cyber Threat Detection System
+# Cyber Threat Detection System
 
 This project is a machine learning-based system designed to detect and classify malicious network traffic using supervised learning techniques. It leverages well-known intrusion detection datasets such as CICIDS2017 and NSL-KDD to identify different categories of cyber attacks including DoS, Port Scan, Infiltration, and other anomalous behaviors.
 
